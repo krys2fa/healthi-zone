@@ -3,20 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="stylesheets/reset.css">
+  <link rel="stylesheet" href="stylesheets/main.css">
+  <link rel="stylesheet" href="stylesheets/responsive.css">
   <title>healthizone</title>
 </head>
+
 <body>
 
-  <nav>
-    <div class="logo">
-      <img src="" alt="">
-      HEALTHIZONE
+  <nav class="flex-h center space-between">
+    <div class="logo flex-h center">
+      <i class="fas fa-store"></i>
+      <span>HEALTHIZONE</span>
     </div>
-    <i class="fas fa-home"></i>Home
-    <i class="fas fa-home"></i>Home
-    <i class="fas fa-home"></i>Home
-   <div class="ad">Post An Ad</div>
+
+    <ul class="flex-h center">
+      <li class="home"><i class="fas fa-home"></i><span class="hide">Home</span></li>
+      <li class="collection"><i class="fas fa-grip-vertical"></i><span class="hide">Collections</span></li>
+      <li class="list"><i class="fas fa-shopping-cart"></i><span class="hide">Purchase List</span></li>
+      <li class="ad hide">Post An Ad</li>
+    </ul>
+    
   </nav>
   
+
+  <script src="https://kit.fontawesome.com/3a88e55698.js" crossorigin="anonymous"></script>
 </body>
 </html>

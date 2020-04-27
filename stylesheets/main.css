@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica Neue, Gotham, Lato, Helvetica, Arial, sans-serif";
+  background: #f4f4f4;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+nav {
+  background-color: #383838;
+  color: #888888;
+  text-transform: uppercase;
+  height: 60px;
+}
+
+nav li {
+  margin: 10px;
+}
+
+nav i {
+  margin: 0 10px;
+}
+
+.logo {
+  color: #fff;
+}
+
+.ad {
+  border: 1px solid #000;
+  padding: 10px;
+  background-color: #d35266;
+  color: #fff;
+}
+
+
+.flex-h,
+.flex-v {
+  display: flex;
+}
+
+.flex-v {
+  flex-direction: column;
+}
+
+.hide {
+  display: none;
+}
+
+.center {
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+

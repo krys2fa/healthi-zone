@@ -1,0 +1,14 @@
+@media screen and (min-width: 768px) {
+
+  nav li,
+  nav span {
+    display: flex;
+  }
+
+  .ad,
+  .home span,
+  .collection span,
+  .list span {
+    display: block;
+  }
+}
