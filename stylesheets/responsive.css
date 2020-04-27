@@ -8,4 +8,28 @@
   nav i {
     margin: 0;
   }
+
+  .copyright,
+  .footer-links {
+    flex-direction: row;
+  }
+
+  .footer-links {
+    width: 100%;
+  }
+
+  .footer-info {
+    width: 25%;
+  }
+
+  .footer-nav {
+     margin-left: 20px;
+  }
+
+  .footer-extra {
+    display: flex;
+    flex-direction: column;
+  }
+
+
 }
