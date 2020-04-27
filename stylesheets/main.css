@@ -46,6 +46,10 @@ nav i {
   color: #fff;
 }
 
+.orange {
+  color: #d35266;
+}
+
 .flex-h,
 .flex-v {
   display: flex;
@@ -75,6 +79,32 @@ nav i {
   justify-content: space-between;
 }
 
+.category-row {
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-template-rows: repeat(2, 50%);
+  grid-gap: 10px 5px;
+  margin: 20px 10px;
+  padding: 20px 10px;
+}
+
+.item {
+  background-color: #fff;
+}
+
+.item-info {
+  margin: 10px 20px;
+}
+
+.antibiotics {
+  height: 200px;
+  background-position: contain;
+  background-repeat: no-repeat;
+}
+
+.antibiotics1 {
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/81V4D6T8YXL._AC._SR360,460.jpg');
+}
 
 footer {
   background-color: #fff;
@@ -88,7 +118,7 @@ footer h1 {
 }
 
 .footer-logo {
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .footer-logo i {
@@ -110,7 +140,7 @@ footer h1 {
 footer,
 .copyright {
   border-top: 1px solid #888888;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .copyright span {

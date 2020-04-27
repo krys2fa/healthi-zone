@@ -15,16 +15,11 @@
   }
 
   .footer-links {
-    /* width: 100%; */
     justify-content: space-between;
   }
 
   .footer-info {
     width: 25%;
-  }
-
-  .footer-nav {
-     /* margin-left: 20px; */
   }
 
   .footer-extra {
