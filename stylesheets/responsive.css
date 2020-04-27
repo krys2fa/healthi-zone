@@ -15,7 +15,8 @@
   }
 
   .footer-links {
-    width: 100%;
+    /* width: 100%; */
+    justify-content: space-between;
   }
 
   .footer-info {
@@ -23,7 +24,7 @@
   }
 
   .footer-nav {
-     margin-left: 20px;
+     /* margin-left: 20px; */
   }
 
   .footer-extra {
