@@ -24,6 +24,7 @@ nav li {
   margin: 10px;
 }
 
+.logo i,
 nav i {
   margin: 0 10px;
 }
@@ -38,7 +39,6 @@ nav i {
   background-color: #d35266;
   color: #fff;
 }
-
 
 .flex-h,
 .flex-v {
@@ -60,5 +60,3 @@ nav i {
 .space-between {
   justify-content: space-between;
 }
-
-

@@ -1,14 +1,11 @@
 @media screen and (min-width: 768px) {
-
-  nav li,
-  nav span {
-    display: flex;
+  
+  .menu-item,
+  .ad {
+    display: block;
   }
 
-  .ad,
-  .home span,
-  .collection span,
-  .list span {
-    display: block;
+  nav i {
+    margin: 0;
   }
 }
