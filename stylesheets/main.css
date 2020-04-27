@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
 * {
   margin: 0;
@@ -7,10 +7,16 @@
 }
 
 body {
-  font-family: "Helvetica Neue, Gotham, Lato, Helvetica, Arial, sans-serif";
+  font-family: "Helvetica Neue", Gotham, "Open Sans", sans-serif;
+  color: #888;
   background: #f4f4f4;
   overflow-x: hidden;
   width: 100%;
+}
+
+a { 
+  text-decoration: none;
+  color: #888;
 }
 
 nav {
@@ -53,10 +59,96 @@ nav i {
   display: none;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .center {
   align-items: center;
 }
 
+.baseline {
+  align-items: baseline;
+}
+
 .space-between {
   justify-content: space-between;
+}
+
+
+footer {
+  background-color: #fff;
+}
+
+footer h1 {
+  text-transform: uppercase;
+  color: #d35266;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #d35266;
+}
+
+.footer-logo {
+  margin: 20px 0;
+}
+
+.footer-logo i {
+  font-size: 40px;
+}
+
+.footer-links {
+  margin: 20px;
+}
+
+.footer-link ul>li {
+  margin: 10px 0;
+}
+
+.footer-link {
+  margin: 10px;
+}
+
+footer,
+.copyright {
+  border-top: 1px solid #888888;
+  padding-top: 20px;
+}
+
+.copyright span {
+  margin: 10px 20px;
+}
+
+.label {
+  text-transform: uppercase;
+  color: #d35266;
+  font-weight: bold;
+  margin: 20px 10px;
+}
+
+.country {
+  margin-left: 10px;
+}
+
+.info span{
+  border: 1px solid #888;
+  font-weight: bold;
+}
+
+.country span {
+  padding: 5px 43px;
+}
+
+.language span {
+  padding: 5px 40px;
+}
+
+.currency span {
+  padding: 5px 50px;
+}
+
+.social-icons {
+  margin: 20px 0;
+}
+
+.social-icons i {
+  margin: 0 20px;
 }
