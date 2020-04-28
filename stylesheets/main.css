@@ -126,6 +126,10 @@ div.orange-bold {
   justify-content: space-between;
 }
 
+.space-around {
+  justify-content: space-around;
+}
+
 .border {
   border: 1px solid #383838;
 }
@@ -369,9 +373,54 @@ footer,
   color: #383838;
 }
 
-
 .down {
   position: relative;
   top: -40px;
   left: 13px;
 }
+
+.searchbox {
+  margin: 20px;
+}
+
+.type,
+.price-range {
+  margin: 20px 0;
+}
+
+.results {
+  margin: 20px 0;
+  padding: 0 20px;
+  border-top: 1px solid #888;
+  border-bottom: 1px solid #888;
+}
+
+.sticker {
+  background-color: #383838;
+  color: #d35266;
+  width: 50px;
+  height: 25px;
+  align-self: flex-end;
+  margin-left: auto;
+}
+
+.result-text span {
+  color: #383838;
+}
+
+.result-img {
+}
+
+.results-btn {
+  margin: 10px 5px;
+  padding: 10px;
+  color: #fff;
+  background-color: #d35266;
+  text-align: center;
+}
+
+.mtb-10 {
+  margin: 10px 0;
+}
+
+
