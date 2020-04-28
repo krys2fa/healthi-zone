@@ -1,5 +1,9 @@
 @media screen and (min-width: 768px) {
   
+  .logo a i {
+    font-size: 30px;
+  }
+  
   .menu-item,
   .ad {
     display: block;
@@ -38,6 +42,22 @@
     grid-gap: 10px 5px;
     margin: 10px 10px 20px;
     padding: 20px 10px;
+  }
+
+  .orange-bold {
+    font-size: 30px;
+  }
+
+  .ad-title {
+    font-size: 20px;
+  }
+
+  .hot-ads i {
+    padding: 15px;
+  }
+
+  .price span i {
+    font-size: 30px;
   }
 
   .copyright,

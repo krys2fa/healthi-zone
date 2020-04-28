@@ -104,7 +104,7 @@ nav i {
 
 .banner {
   margin-top: 60px;
-  height: 500px;
+  height: 440px;
   background-color: #d35266;
 }
 
@@ -144,8 +144,8 @@ nav i {
 }
 
 .hot-ads {
-  grid-template-columns: 10% 70% 10%;
-  grid-column-gap: 10px;
+  grid-template-columns: 10% 80% 10%;
+  padding: 0 15px;
   background-color: #fff;
 }
 
@@ -153,7 +153,7 @@ nav i {
   color: #d35266;
   border: 1px solid #888;
   border-radius: 50%;
-  padding: 15px;
+  padding: 10px;
 }
 
 .ad-img {
@@ -176,7 +176,7 @@ nav i {
 
 .ad-title {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .ad-info >* {
@@ -199,6 +199,7 @@ nav i {
   background-color: #d35266;
   color: #fff;
   padding: 10px;
+  font-size: 10px;
 }
 
 .arrows {
@@ -253,12 +254,8 @@ nav i {
   margin-bottom: 20px;
 }
 
-.price span {
-  font-size: 20px;
-}
-
 .price span i {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .img-props {
@@ -351,7 +348,7 @@ footer,
 }
 
 .logo a i {
-  font-size: 30px;
+  font-size: 18px;
 }
 
 .logo a {
