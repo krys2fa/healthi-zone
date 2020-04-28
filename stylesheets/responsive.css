@@ -9,6 +9,11 @@
     margin: 0;
   }
 
+  .description {
+    display: block;
+    margin-left: 20px;
+  }
+
   .copyright,
   .footer-links {
     flex-direction: row;
