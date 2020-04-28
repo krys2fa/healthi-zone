@@ -47,6 +47,10 @@ nav i {
   color: #fff;
 }
 
+  div.orange-bold {
+    font-size: 10px;
+  }
+
 .orange-bold {
   color: #d35266;
   font-weight: bold;
@@ -185,6 +189,7 @@ nav i {
 
 .buy-btn {
   margin: 20px 0;
+  grid-template-columns: 40% 50%;
 }
 
 .buy-btn i {
@@ -198,7 +203,7 @@ nav i {
   padding: 10px;
   background-color: #d35266;
   color: #fff;
-  padding: 10px;
+  text-align: center;
   font-size: 10px;
 }
 

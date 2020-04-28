@@ -3,7 +3,7 @@
   .logo a i {
     font-size: 30px;
   }
-  
+
   .menu-item,
   .ad {
     display: block;
@@ -44,8 +44,12 @@
     padding: 20px 10px;
   }
 
+  div.orange-bold {
+    font-size: 15px;
+  }
+
   .orange-bold {
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .ad-title {
@@ -58,6 +62,15 @@
 
   .price span i {
     font-size: 30px;
+  }
+
+  .ad-price {
+    padding: 25px 10px 10px;
+  }
+
+  .details,
+  .ad-price {
+    font-size: 20px;
   }
 
   .copyright,
