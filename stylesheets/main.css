@@ -388,11 +388,15 @@ footer,
   margin: 20px 0;
 }
 
+.type h1,
+.price-range h1 {
+  color: #383838;
+}
+
 .results {
   margin: 20px 0;
   padding: 0 20px;
   border-top: 1px solid #888;
-  border-bottom: 1px solid #888;
 }
 
 .sticker {
@@ -421,6 +425,34 @@ footer,
 
 .mtb-10 {
   margin: 10px 0;
+}
+
+.mtb-20 {
+  margin: 20px 0;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+
+.results-info {
+  color: #383838;
+  font-weight: bold;
+}
+
+.page {
+  margin: 20px auto;
+  justify-content: center;
+}
+
+.bg-white {
+  background-color: #fff;
+  color: #383838
+}
+
+.result {
+  border-bottom: 1px solid #888;
+  margin: 10px 20px;
 }
 
 
