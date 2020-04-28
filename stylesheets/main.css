@@ -93,6 +93,48 @@ nav i {
   right: 0;
 }
 
+.banner {
+  margin-top: 60px;
+  height: 500px;
+  background-color: #d35266;
+}
+
+.banner h1 {
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "Open Sans",sans-serif;
+  font-size: 70px;
+  text-align: center;
+  padding-top: 60px;
+}
+
+.banner h6 {
+  color: #fff;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+.search {
+  margin: 20px;
+}
+
+.search input {
+  margin: 10px;
+  height: 40px;
+}
+
+.search-btn {
+  margin: 10px;
+  border: 1px solid #383838;
+  padding: 10px;
+  color: #888;
+  background-color: #383838;
+  text-align: center;
+}
+
 .category {
   margin-top: 20px;
 }
@@ -113,6 +155,11 @@ nav i {
 .category-heading i {
   font-size: 40px;
   margin-right: 20px;
+  color: #383838;
+}
+
+.category-heading h1 {
+  color: #383838;
 }
 
 .item {
