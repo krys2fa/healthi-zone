@@ -35,10 +35,6 @@ nav i {
   margin: 0 10px;
 }
 
-.logo {
-  color: #fff;
-}
-
 .ad {
   border: 1px solid #000;
   padding: 10px;
@@ -181,4 +177,18 @@ footer,
 
 .social-icons i {
   margin: 0 20px;
+  transition: color 1s;
+}
+
+.logo a {
+  color: #fff;
+}
+
+.ad a {
+  color: #fff;
+}
+
+.footer-nav ul a:hover,
+.social-icons a:hover {
+  color: #383838;
 }
