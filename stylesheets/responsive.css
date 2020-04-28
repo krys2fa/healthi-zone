@@ -9,9 +9,26 @@
     margin: 0;
   }
 
+  .banner {
+    height: 300px;
+  }
+  
+  .search {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .search input {
+    width: 400px;
+  }
+
   .description {
     display: block;
     margin-left: 20px;
+  }
+
+  .search input {
+    margin-right: 0px;
   }
 
   .category-row {
