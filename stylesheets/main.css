@@ -368,3 +368,10 @@ footer,
 .footer-nav ul a:hover {
   color: #383838;
 }
+
+
+.down {
+  position: relative;
+  top: -40px;
+  left: 13px;
+}
