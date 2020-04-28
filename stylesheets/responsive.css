@@ -14,6 +14,15 @@
     margin-left: 20px;
   }
 
+  .category-row {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: repeat(2, 50%);
+    grid-gap: 10px 5px;
+    margin: 10px 10px 20px;
+    padding: 20px 10px;
+  }
+
   .copyright,
   .footer-links {
     flex-direction: row;
