@@ -412,8 +412,8 @@ footer,
   color: #383838;
 }
 
-.result-img {
-}
+/* .result-img {
+} */
 
 .results-btn {
   margin: 10px 5px;
@@ -421,6 +421,7 @@ footer,
   color: #fff;
   background-color: #d35266;
   text-align: center;
+  cursor: pointer;
 }
 
 .mtb-10 {
@@ -447,12 +448,10 @@ footer,
 
 .bg-white {
   background-color: #fff;
-  color: #383838
+  color: #383838;
 }
 
 .result {
   border-bottom: 1px solid #888;
   margin: 10px 20px;
 }
-
-
