@@ -196,11 +196,6 @@ footer h1 {
   background-color: #fff;
 }
 
-.ad-img {
-  margin: 20px auto;
-  width: 100%;
-}
-
 .ad-text {
   margin-top: 20px;
   margin-left: 20px;
@@ -294,6 +289,8 @@ footer h1 {
   height: 300px;
   background-size: contain;
   background-repeat: no-repeat;
+  margin: 20px auto;
+  width: 100%;
 }
 
 .ad-img,
@@ -309,7 +306,7 @@ footer h1 {
   background-image: url("https://m.media-amazon.com/images/I/81u4ETZPp2L._AC_UL320_.jpg");
 }
 
-.antibiotics-img4{
+.antibiotics-img4 {
   background-image: url("https://m.media-amazon.com/images/I/51Uzfj6rVfL._AC_UL320_.jpg");
 }
 
@@ -355,6 +352,11 @@ footer {
 
 .footer-links {
   margin: 20px;
+}
+
+.tooltip-list li {
+  padding: 10px 0;
+  cursor: pointer;
 }
 
 .footer-link ul > li {
@@ -503,12 +505,6 @@ footer,
   margin: 10px 20px;
 }
 
-.tooltip {
-  /* position: relative; */
-  /* display: inline-block; */
-
-}
-
 .tooltip i:hover {
   background: #000;
   color: #d35266;
@@ -532,12 +528,6 @@ footer,
   position: relative;
   top: -5px;
 }
-
-.tooltip-list li {
-  padding: 10px 0;
-  cursor: pointer;
-}
-
 
 .bg-red {
   background-color: #383838;
