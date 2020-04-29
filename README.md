@@ -28,7 +28,7 @@ The project also required building versions for 2 different screen sizes (i.e mo
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/krys2fa/newsweek-clone/07354d005f21b16aa349fbf5b52c40b8bef8255a/index.html)
+[Live Demo Link](https://rawcdn.githack.com/krys2fa/healthi-zone/393df68b041f6cf809e839977895eeb774e37d6b/index.html)
 
 ## Getting Started
 
