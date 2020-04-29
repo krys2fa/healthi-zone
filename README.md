@@ -11,7 +11,6 @@ This is the Microverse HTML &amp; CSS capstone project. This capstone microverse
 ![mobile-searchpage-2](./images/mobile-searchpage-2.png)
 ![tablet-homepage-1](./images/tablet-homepage-1.png)
 ![tablet-homepage-2](./images/tablet-homepage-2.png)
-![tablet-homepage-3](./images/tablet-homepage-3.png)
 ![tablet-searchpage-1](./images/tablet-searchpage-1.png)
 ![tablet-searchpage-2](./images/tablet-searchpage-2.png)
 
