@@ -14,7 +14,7 @@ This is the Microverse HTML &amp; CSS capstone project. This capstone microverse
 ![tablet-searchpage-1](./images/tablet-searchpage-1.png)
 ![tablet-searchpage-2](./images/tablet-searchpage-2.png)
 
-Additional description about the project and its features.
+
 In this Microverse capstone project, I was required to build a personalized online shop having been given design specifications. 
 With this in mind, I decided to build an online health shop.
 It has two pages; one for the home page and the other for the search results page.
