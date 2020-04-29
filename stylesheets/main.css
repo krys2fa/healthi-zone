@@ -455,3 +455,44 @@ footer,
   border-bottom: 1px solid #888;
   margin: 10px 20px;
 }
+
+.tooltip {
+  /* position: relative; */
+  /* display: inline-block; */
+
+}
+
+.tooltip i:hover {
+  background: #000;
+  color: #d35266;
+}
+
+.tooltip-info {
+  display: none;
+  width: 160px;
+  background-color: #383838;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltip-info {
+  display: block;
+  color: #383838;
+  background: #fff;
+  position: relative;
+  top: -5px;
+}
+
+.tooltip-list li {
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+
+.bg-red {
+  background-color: #d35266;
+  color: #fff;
+}
