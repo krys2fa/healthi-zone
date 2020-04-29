@@ -3,7 +3,17 @@ This is the Microverse HTML &amp; CSS capstone project. This capstone microverse
 
 
 
-![screenshot](./images/app_screenshot.png)
+![mobile-homepage-1](./images/mobile-homepage-1.png)
+![mobile-homepage-2](./images/mobile-homepage-2.png)
+![mobile-homepage-3](./images/mobile-homepage-3.png)
+![mobile-homepage-4](./images/mobile-homepage-4.png)
+![mobile-searchpage-1](./images/mobile-searchpage-1.png)
+![mobile-searchpage-2](./images/mobile-searchpage-2.png)
+![tablet-homepage-1](./images/tablet-homepage-1.png)
+![tablet-homepage-2](./images/tablet-homepage-2.png)
+![tablet-homepage-3](./images/tablet-homepage-3.png)
+![tablet-searchpage-1](./images/tablet-searchpage-1.png)
+![tablet-searchpage-2](./images/tablet-searchpage-2.png)
 
 Additional description about the project and its features.
 In this Microverse capstone project, I was required to build a personalized online shop having been given design specifications. 
