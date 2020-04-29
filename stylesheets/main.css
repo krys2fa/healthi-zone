@@ -202,7 +202,8 @@ footer h1 {
 }
 
 .ad-text {
-  margin-top: 20px 0;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
 .ad-text h1 {
@@ -217,10 +218,6 @@ footer h1 {
 .ad-title {
   font-weight: bold;
   font-size: 16px;
-}
-
-.ad-info > * {
-  margin: 10px;
 }
 
 .buy-btn {
@@ -288,14 +285,64 @@ footer h1 {
 }
 
 .img-props {
-  height: 200px;
-  background-position: 50% 100%;
+  height: 160px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ad-img {
+  height: 300px;
+  background-size: contain;
   background-repeat: no-repeat;
 }
 
 .ad-img,
-.antibiotics1 {
+.antibiotics-img1 {
   background-image: url('https://images-na.ssl-images-amazon.com/images/I/81V4D6T8YXL._AC._SR360,460.jpg');
+}
+
+.antibiotics-img2 {
+  background-image: url("https://m.media-amazon.com/images/I/41-DaKo7k+L._AC_UL320_.jpg");
+}
+
+.antibiotics-img3 {
+  background-image: url("https://m.media-amazon.com/images/I/81u4ETZPp2L._AC_UL320_.jpg");
+}
+
+.antibiotics-img4{
+  background-image: url("https://m.media-amazon.com/images/I/51Uzfj6rVfL._AC_UL320_.jpg");
+}
+
+.firstaid-img1 {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/91wvG8mS6KL._AC._SR360,460.jpg");
+}
+
+.firstaid-img2 {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/61EvLAKOCJL._AC._SR360,460.jpg");
+}
+
+.firstaid-img3 {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/81g1vlkjyGL._AC._SR360,460.jpg");
+}
+
+.firstaid-img4 {
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/41UIAVtJsuL._AC._SR360,460.jpg");
+}
+
+.supplement-img1 {
+  background-image: url("https://m.media-amazon.com/images/I/91FhKJQgyYL._AC_UL320_.jpg");
+}
+
+.supplement-img2 {
+  background-image: url("https://m.media-amazon.com/images/I/71ImF0kdyOL._AC_UL320_.jpg");
+}
+
+.supplement-img3 {
+  background-image: url("https://m.media-amazon.com/images/I/81UnyKysznL._AC_UL320_.jpg");
+}
+
+.supplement-img4 {
+  background-image: url("https://m.media-amazon.com/images/I/81qfQZ3MJ+L._AC_UL320_.jpg");
 }
 
 footer {

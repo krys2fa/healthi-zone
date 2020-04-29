@@ -12,6 +12,11 @@
     padding: 15px;
   }
 
+  .ad-img {
+    width: 250px;
+    margin: 20px auto;
+  }
+
   .logo span {
     position: relative;
     top: -5px;
