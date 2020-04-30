@@ -126,10 +126,10 @@
     grid-column-gap: 20px;
   }
 
-   .img-props {
-     height: 140px;
-     width: 100px;
-   }
+  .img-props {
+    height: 140px;
+    width: 100px;
+  }
 }
 
 @media screen and (min-width: 1024px) {
