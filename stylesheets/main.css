@@ -20,6 +20,10 @@ a {
   color: #888;
 }
 
+h3 {
+  font-size: 14px;
+}
+
 nav {
   background-color: #383838;
   color: #888;
@@ -86,7 +90,7 @@ div.orange-bold {
 .orange-bold {
   color: #d35266;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .light-bold {
