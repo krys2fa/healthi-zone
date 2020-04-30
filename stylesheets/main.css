@@ -148,6 +148,12 @@ div.orange-bold {
   background-color: #d35266;
 }
 
+h2,
+.type h1,
+.price-range h1 {
+  color: #383838;
+}
+
 footer h2 {
   text-transform: uppercase;
   color: #d35266;
@@ -437,12 +443,6 @@ footer,
 .type,
 .price-range {
   margin: 20px 0;
-}
-
-h2,
-.type h1,
-.price-range h1 {
-  color: #383838;
 }
 
 .results {
