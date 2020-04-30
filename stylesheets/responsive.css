@@ -1,0 +1,159 @@
+@media screen and (min-width: 768px) {
+  .menu-item,
+  .ad {
+    display: block;
+  }
+
+  nav i {
+    margin: 0;
+  }
+
+  .hot-ads i {
+    padding: 15px;
+  }
+
+  .logo span {
+    position: relative;
+    top: -5px;
+  }
+
+  .logo a i {
+    font-size: 30px;
+  }
+
+  .banner {
+    height: 300px;
+  }
+
+  .search {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .description {
+    display: block;
+    margin-left: 20px;
+  }
+
+  .search input {
+    margin-right: 0;
+    width: 400px;
+  }
+
+  .category-row {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-template-rows: repeat(2, 50%);
+    grid-gap: 10px 5px;
+    margin: 10px 10px 20px;
+    padding: 20px 10px;
+  }
+
+  div.orange-bold {
+    font-size: 15px;
+  }
+
+  .orange-bold {
+    font-size: 20px;
+  }
+
+  .ad-title {
+    font-size: 20px;
+  }
+
+  .price span i {
+    font-size: 30px;
+  }
+
+  .ad-price {
+    padding: 25px 10px 10px;
+  }
+
+  .details,
+  .ad-price {
+    font-size: 20px;
+  }
+
+  .copyright,
+  .footer-links {
+    flex-direction: row;
+  }
+
+  .footer-links {
+    justify-content: space-between;
+  }
+
+  .footer-info {
+    width: 25%;
+  }
+
+  .footer-extra {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .down {
+    position: relative;
+    top: 20px;
+    left: -195px;
+  }
+
+  .search-title h1,
+  .search-title h6 {
+    text-align: left;
+    margin-left: 30px;
+  }
+
+  .searchbox {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .result {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-gap: 10px 20px;
+  }
+
+  .result-text,
+  .result-img {
+    margin: 20px;
+  }
+
+  .advert {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-column-gap: 20px;
+  }
+
+  .img-props {
+    height: 140px;
+    width: 100px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .search i {
+    display: none;
+  }
+
+  .img-props {
+    height: 120px;
+    width: 100px;
+  }
+
+  .searchbox {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto 0;
+    height: 500px;
+  }
+
+  main {
+    grid-template-columns: 30% 70%;
+  }
+
+  .results {
+    margin: 0 auto;
+  }
+}
