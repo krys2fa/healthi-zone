@@ -135,4 +135,23 @@
   .search i {
     display: none;
   }
+
+  .item .img-props {
+    background-size: 100% 130%;
+  }
+
+  .searchbox {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto 0;
+    height: 500px;
+  }
+
+  main {
+    grid-template-columns: 30% 70%;
+  }
+
+  .results {
+    margin: 0 auto;
+  }
 }
