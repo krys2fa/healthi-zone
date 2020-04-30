@@ -290,18 +290,27 @@ footer h2 {
   font-size: 20px;
 }
 
-.img-props {
-  height: 160px;
-  background-size: cover;
+.result-img-props {
+  height: 90px;
+  background-size: contain;
   background-repeat: no-repeat;
+  margin: 0 auto;
+  width: 80px;
+}
+
+.img-props {
+  height: 95px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  width: 80px;
 }
 
 .ad-img {
-  height: 300px;
   background-size: contain;
   background-repeat: no-repeat;
   margin: 20px auto;
-  width: 100%;
+  width: 130px;
 }
 
 .ad-img,

@@ -12,10 +12,6 @@
     padding: 15px;
   }
 
-  .ad-img {
-    width: 250px;
-  }
-
   .logo span {
     position: relative;
     top: -5px;
@@ -129,6 +125,11 @@
     grid-template-columns: 30% 70%;
     grid-column-gap: 20px;
   }
+
+   .img-props {
+     height: 140px;
+     width: 100px;
+   }
 }
 
 @media screen and (min-width: 1024px) {
@@ -136,8 +137,9 @@
     display: none;
   }
 
-  .item .img-props {
-    background-size: 100% 130%;
+  .img-props {
+    height: 120px;
+    width: 100px;
   }
 
   .searchbox {
