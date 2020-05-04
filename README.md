@@ -29,6 +29,8 @@ The project also required building versions for 2 different screen sizes (i.e mo
 
 [Live Demo Link](https://rawcdn.githack.com/krys2fa/healthi-zone/db9bdbc431fbe332cfb23c32ca4d23470d13ddca/index.html)
 
+[Video Presentation](https://www.loom.com/share/6b13a2f8b35446bb957563af21bdb3d4)
+
 ## Getting Started
 
 **Click on the link above in order to see the Live Demo of the front end project.**
