@@ -69,6 +69,8 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to [Mohammed Awad](https://www.behance.net/M_Awad) whose [design inspiration](https://www.behance.net/gallery/24796463/ZATTIX) was used in this project.
 
+- Kudos to [Amazon](https://www.amazon.com) where I took all images used in this project.
+
 
 ## 📝 License
 
