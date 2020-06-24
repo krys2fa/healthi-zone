@@ -15,7 +15,7 @@ This is the Microverse HTML &amp; CSS capstone project. This capstone microverse
 ![tablet-searchpage-2](./images/tablet-searchpage-2.png)
 
 
-In this Microverse capstone project, I was required to build a personalized online shop having been given design specifications. 
+In this Microverse capstone project, I was required to build a personalized online shop having been given design specifications.
 With this in mind, I decided to build an online health shop.
 It has two pages; one for the home page and the other for the search results page.
 The project also required building versions for 2 different screen sizes (i.e mobile and tablet/desktop).
@@ -27,7 +27,7 @@ The project also required building versions for 2 different screen sizes (i.e mo
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/krys2fa/healthi-zone/db9bdbc431fbe332cfb23c32ca4d23470d13ddca/index.html)
+[Live Demo Link](https://rawcdn.githack.com/krys2fa/healthi-zone/aab1a3621f975e754202a4402dad94e24109aa41/index.html)
 
 [Video Presentation](https://www.loom.com/share/6b13a2f8b35446bb957563af21bdb3d4)
 
