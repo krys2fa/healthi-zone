@@ -8,6 +8,10 @@
     margin: 0;
   }
 
+  .ad-img {
+    margin: auto;
+  }
+
   .hot-ads i {
     padding: 15px;
   }
